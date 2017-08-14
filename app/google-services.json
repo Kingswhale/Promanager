@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "749695067540",
+    "firebase_url": "https://promanager-c8431.firebaseio.com",
+    "project_id": "promanager-c8431",
+    "storage_bucket": "promanager-c8431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749695067540:android:e5f416caacfc607b",
+        "android_client_info": {
+          "package_name": "com.kingswhale.promanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749695067540-lk97uv1oufu9fgednc3np0mrkq0j579v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingswhale.promanager",
+            "certificate_hash": "7d0a90b02b6603496bc30d8538972d607626e4f9"
+          }
+        },
+        {
+          "client_id": "749695067540-nhh4kndb8jtqr0ftjc2dlthu7orignf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuyCjSAk9TOHzG-v-d4nbWfkYisyP3InY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749695067540-nhh4kndb8jtqr0ftjc2dlthu7orignf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
